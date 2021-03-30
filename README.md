@@ -12,6 +12,11 @@ The steps to use the algorithm are the following:
   -  Inspect the network in the Output tab
 ## Constants tab
 In the first tab of the Excel sheet the user can choose the criterion (Minimum Distance, or Maximum Benefit-Cost) and change the constants that are used in the calculation: Water density, Gravity; and in the case of Maximum (Benefit-Cost) criterion: Pipe linear loss, Price of electricity, Discount rate, Pipe Lifetime, Pump efficiency, Irrigation pressure, Pipe unit cost.
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
 Worksheet	Line	Column	Variable name	Units	Variable type
 Constants	4	3	Optimization criterion	-	text
 Constants	8	3	Water density	kg/m3	real
